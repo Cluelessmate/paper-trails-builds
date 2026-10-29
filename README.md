@@ -28,3 +28,7 @@ Right-click the desk > **Settings** > **Connection** > **Copy a problem report**
 whoever gave you the game. Your save lives in `%APPDATA%\PaperTrails`.
 
 When a new version is out, the game tells you, and **Get the new version** opens this page.
+
+## Privacy
+
+What the game stores, who sees it and how to delete it: [PRIVACY.md](PRIVACY.md).
