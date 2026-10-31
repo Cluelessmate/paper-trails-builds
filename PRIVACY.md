@@ -16,6 +16,10 @@ When someone receives your letter, they see:
   anonymous and no name is shown.
 - your broad region (for example "Europe"), but only if you turn that on
 
+When you open a letter, its sender can see that it was opened, whether you kept it in your
+scrapbook, any reaction you sent back (one of a few fixed choices, like "Made my day"), and, if
+you share your broad region, that their plane landed in that region.
+
 Nobody ever sees your Steam name, Steam ID, IP address or exact location.
 
 ## What the server stores
@@ -27,9 +31,9 @@ between players. It stores:
 | --- | --- | --- |
 | Your Steam ID (or, in test builds, a random ID made by the game) | To sign you in. It is never shown to anyone. | Until you delete your account |
 | Display name, "anonymous" choice, broad region and whether to share it | To show what you chose on your letters | Until you change it or delete your account |
-| Who may send to you (everyone, friends or nobody), whether you accept drawings, your letter languages | To deliver the right letters to you | Until you delete your account |
+| Who may send to you (everyone, friends, only replies and pen pals, or nobody), whether you accept drawings, your letter languages | To deliver the right letters to you | Until you delete your account |
 | When you were last online | To send random planes to people who are actually playing | Until you delete your account |
-| The letters you send, and whether each one was delivered and opened | To deliver letters to players who are offline, and to tell you when yours is opened | Deleted after 60 days |
+| The letters you send, whether each one was delivered, opened or kept, and any reaction sent back | To deliver letters to players who are offline, and to tell senders what happened to their plane | Deleted after 60 days |
 | The players you block and the conversations you mute | So their letters stop reaching you | Until you remove them or delete your account |
 | Your Steam friends who also play | So friends can send planes to each other. A friendship only counts when both of you have each other in your friends list. | Updated each time you play |
 | Reports, including a copy of the reported letter | So a moderator can review it | Up to 180 days |
